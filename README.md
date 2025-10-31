@@ -85,6 +85,7 @@ The Data Analysis goals are:To find out?
     2. Clone the repo  
        https://github.com/pkiar/Project-Data-Analysis-with-Pandas-.git
     3. Install dependencies
+       pip install -r requirements.txt
     4. Results
       All visualizations are saved in the /plots folder and summarized in Tableau.  
        Tableau links: https://public.tableau.com/authoring/AviationSafetyDataAnalysisVisualizingRiskPatternsUsingPython/Dashboard3#5
